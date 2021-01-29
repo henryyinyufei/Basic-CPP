@@ -1,3 +1,3 @@
-# Basic-C++
+# Basic-CPP
 
 CMPT 129 
